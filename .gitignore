@@ -39,3 +39,4 @@ lerna-debug.log*
 .env.test
 .env.local
 tsconfig.tsbuildinfo
+/generated/prisma
